@@ -61,4 +61,4 @@ services:
 
 databases:
   - name: n8n-db
-    plan: free
+    plan: basic
